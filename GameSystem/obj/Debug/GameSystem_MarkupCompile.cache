@@ -1,0 +1,20 @@
+﻿GameSystem
+
+
+winexe
+C#
+.cs
+F:\.Net ll\GenericRolePlayingGame\GameSystem\obj\Debug\
+GameSystem
+none
+false
+DEBUG;TRACE
+F:\.Net ll\GenericRolePlayingGame\GameSystem\App.xaml
+8-946340679
+
+13-1176332585
+151238984204
+CharacterCreatorWindow.xaml;CreateAccountWindow.xaml;InventoryItemUpdate.xaml;ItemDescription.xaml;ItemUpdate.xaml;LogoutMessageWindow.xaml;MainWindow.xaml;UpdateProfile.xaml;
+
+False
+

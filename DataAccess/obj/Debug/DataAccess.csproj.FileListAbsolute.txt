@@ -1,0 +1,14 @@
+E:\.Net ll\GenericRolePlayingGame\DataAccess\bin\Debug\DataAccess.dll
+E:\.Net ll\GenericRolePlayingGame\DataAccess\bin\Debug\DataAccess.pdb
+E:\.Net ll\GenericRolePlayingGame\DataAccess\bin\Debug\DataObjects.dll
+E:\.Net ll\GenericRolePlayingGame\DataAccess\bin\Debug\DataObjects.pdb
+E:\.Net ll\GenericRolePlayingGame\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\.Net ll\GenericRolePlayingGame\DataAccess\obj\Debug\DataAccess.dll
+E:\.Net ll\GenericRolePlayingGame\DataAccess\obj\Debug\DataAccess.pdb
+F:\.Net ll\GenericRolePlayingGame\DataAccess\bin\Debug\DataAccess.dll
+F:\.Net ll\GenericRolePlayingGame\DataAccess\bin\Debug\DataAccess.pdb
+F:\.Net ll\GenericRolePlayingGame\DataAccess\bin\Debug\DataObjects.dll
+F:\.Net ll\GenericRolePlayingGame\DataAccess\bin\Debug\DataObjects.pdb
+F:\.Net ll\GenericRolePlayingGame\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\.Net ll\GenericRolePlayingGame\DataAccess\obj\Debug\DataAccess.dll
+F:\.Net ll\GenericRolePlayingGame\DataAccess\obj\Debug\DataAccess.pdb

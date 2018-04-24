@@ -1,0 +1,10 @@
+E:\.Net ll\GenericRolePlayingGame\DataObjects\bin\Debug\DataObjects.dll
+E:\.Net ll\GenericRolePlayingGame\DataObjects\bin\Debug\DataObjects.pdb
+E:\.Net ll\GenericRolePlayingGame\DataObjects\obj\Debug\DataObjects.csprojResolveAssemblyReference.cache
+E:\.Net ll\GenericRolePlayingGame\DataObjects\obj\Debug\DataObjects.dll
+E:\.Net ll\GenericRolePlayingGame\DataObjects\obj\Debug\DataObjects.pdb
+F:\.Net ll\GenericRolePlayingGame\DataObjects\bin\Debug\DataObjects.dll
+F:\.Net ll\GenericRolePlayingGame\DataObjects\bin\Debug\DataObjects.pdb
+F:\.Net ll\GenericRolePlayingGame\DataObjects\obj\Debug\DataObjects.csprojResolveAssemblyReference.cache
+F:\.Net ll\GenericRolePlayingGame\DataObjects\obj\Debug\DataObjects.dll
+F:\.Net ll\GenericRolePlayingGame\DataObjects\obj\Debug\DataObjects.pdb
